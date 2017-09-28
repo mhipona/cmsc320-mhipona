@@ -292,3 +292,4 @@ You are encouraged to work in small groups, but you must prepare your own writeu
 
 **OLD**:
 Working in groups in this project is encouraged but not required. If working on a group: (1) groups can be of 2 or 3 people, (2) each group member can submit the same writeup on ELMS, (3) in all cases, names of peers who worked in the group should be included in the writeup. As all group work and reflective of academic ethics code, there is an expectation that all group members will contribute equally in design, implementation and reporting of this work. If any student feels this expectation was not met when working on this project, they should contact the instructor team who will handle the situation as expediently and fairly as possible.
+# test

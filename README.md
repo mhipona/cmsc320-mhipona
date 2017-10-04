@@ -1,8 +1,9 @@
 # cmsc320-mhipona
-cmsc320 Project1
+cmsc320 Projects
 
-Project1 Group Repository
+Projects Group Repository
 Members:
 Marc Hipona
 Leo Azucena
 Gabriel Vallangca
+Khanh Nguyen
